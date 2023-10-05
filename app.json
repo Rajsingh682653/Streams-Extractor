@@ -12,19 +12,19 @@
     "repository": "https://github.com/TroJanzHEX/Streams-Extractor",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
-        "BOT_TOKEN": {
+        "6388387136:AAHiGw9MpVTn4ilxwPhIXnrKmMo3Jv3gH0k": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
-        "API_HASH": {
+        "301b6c8501a8219c86be983c18f58088": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
             "value": ""
         },
-        "APP_ID": {
+        "26040226": {
             "description": "Your APP ID from my.telegram.org or @UseTGXBot",
             "value": ""
         },
-        "AUTH_USERS": {
+        "6301474413": {
             "description": "Id of users that can use the bot, from @MissRose_bot by /id command",
             "value": ""
         }
